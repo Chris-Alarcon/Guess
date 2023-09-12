@@ -34,4 +34,12 @@ width: 230px;
 padding: 20px;
 border: 1px;
 margin: 10px auto 0 auto;
+font-family: 'Inter', sans-serif;
+}
+.contact {
+    text-align: center;
+    color: aqua;
+    border: 10px solid grey;
+    margin: 1px 500px;
+    background-color: gray;
 }
